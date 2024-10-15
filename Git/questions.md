@@ -14,7 +14,7 @@
 **How do you add changes to the staging area?**
 
 - [ ] A. `git stage`
-- [x] B. `git add <file-name>`
+- [x] B. `git add`
 - [ ] C. `git commit`
 - [ ] D. `git push`
 
@@ -24,7 +24,7 @@
 
 - [ ] A. `git stage`
 - [ ] B. `git add`
-- [x] C. `git commit -m "message"`
+- [x] C. `git commit`
 - [ ] D. `git push`
 
 ## Question 4
@@ -32,6 +32,6 @@
 **How do you switch to a different branch?**
 
 - [ ] A. `git branch`
-- [x] B. `git checkout <branch>`
+- [x] B. `git checkout`
 - [ ] C. `git switch`
 - [ ] D. `git change`
